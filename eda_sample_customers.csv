@@ -1,0 +1,506 @@
+customer_id,signup_date,age,income,gender,city,has_car,purchases_last_6m,avg_session_mins,credit_score,satisfaction,referral_source,zip_code,notes,churned
+174,2/21/2025,41,291.98,Female,Glenwood,No,2,12.24,310,4,Friend,95608,likes new app,0
+275,9/28/2023,46,913.25,Male,Oakdale,No,1,7.93,309,4,Email,92689,legacy plan,0
+491,11/9/2023,,615.03,Female,Lakeside,No,3,5.98,341,4,Search,96342,asked for refund,0
+73,9/8/2024,55,864.29,Male,Oakdale,No,0,19.41,421,3,Friend,93763,prefers SMS,0
+306,7/17/2022,35,103.98,Female,Glenwood,Yes,5,9.85,300,2,Friend,90306,moved recently,0
+77,8/12/2021,25,316.48,Female,Riverton,Yes,0,12.41,,4,Search,93137,legacy plan,1
+477,5/8/2022,57,360.24,Female,Riverton,Yes,2,11.81,353,3,Search,95117,VIP customer,0
+141,9/3/2022,35,376.85,Female,Lakeside,No,1,14.85,378,4,Other,94019,VIP customer,0
+471,3/21/2022,40,167.84,Male,Lakeside,Yes,8,16.24,376,3,Friend,94221,called support twice,0
+500,10/26/2022,40,187.25,Female,Springfield,Yes,0,14.8,300,4,Ads,96537,no response,0
+219,2/4/2025,33,,Female,Hillview,No,2,17.54,308,3,Event,93000,loves coupons,0
+10,6/22/2022,46,445.39,Female,Riverton,No,4,7.12,374,2,Search,95552,likes new app,1
+481,3/31/2022,36,1277.2,,Hillview,Yes,2,63.68,424,3,Search,90794,moved recently,0
+79,1/22/2023,26,210,Male,Springfield,Yes,0,12.06,,5,Search,96355,likes new app,0
+323,10/21/2021,39,148.98,Male,Oakdale,No,4,16.49,307,5,Friend,92453,likes new app,0
+313,4/11/2021,39,68.58,Female,Springfield,No,3,21.97,302,3,Other,93838,prefers email,0
+125,3/24/2020,40,475.81,Female,Lakeside,Yes,4,18.97,300,3,Other,95029,VIP customer,0
+385,1/25/2022,43,757.82,Female,Hillview,Yes,6,,300,5,Email,95354,prefers email,0
+196,12/25/2020,59,664.7,Female,Lakeside,No,2,13.62,329,2,Search,95834,legacy plan,0
+448,5/12/2023,33,860.96,Male,Oakdale,No,2,9.53,375,4,Email,95975,PREFERS SMS!!!,1
+272,12/16/2020,,540.28,Male,Riverton,No,2,12.11,358,4,Other,90817,prefers email,0
+279,10/22/2024,39,249.8,Female,Springfield,Yes,1,13.99,300,4,Ads,90988,loves coupons,1
+31,2/3/2024,32,98.17,Male,Lakeside,No,0,10.9,311,4,Friend,92616,no response,0
+336,5/18/2023,31,190.56,Male,Riverton,Yes,1,7.35,336,3,Other,92924,called support twice,0
+421,8/10/2023,36,1383.53,Male,Hillview,No,1,10.07,497,4,Friend,94195,LEGACY PLAN!!!,0
+445,6/27/2021,54,243.73,Male,Springfield,Yes,3,14.95,341,4,Search,96159,loves coupons,0
+80,4/22/2024,34,416.09,Male,Lakeside,No,1,12.07,320,3,Search,96279,no response,0
+319,8/18/2021,35,509.84,Female,Lakeside,Yes,3,13.54,393,1,Friend,96699,legacy plan,1
+211,10/25/2023,33,236.85,Female,Hillview,Yes,0,14.66,342,4,Search,96510,moved recently,0
+497,5/15/2022,31,249.96,Male,Oakdale,No,3,6.97,300,3,Search,91489,prefers SMS,0
+173,5/28/2021,24,283.66,Female,Lakeside,Yes,0,13.94,325,5,Search,93718,called support twice,0
+454,12/13/2020,38,254.4,,Northbridge,No,1,9.43,300,2,Search,95161,asked for refund,1
+375,11/12/2020,35,146.35,Female,Lakeside,Yes,3,12.49,300,2,Ads,90095,no response,0
+359,9/14/2022,32,1144.36,Male,Hillview,Yes,2,18.44,401,4,Other,92235,moved recently,0
+495,4/29/2024,25,250.9,Female,Hillview,No,1,16.94,345,2,Other,90024,loves coupons,1
+154,1/16/2023,32,673.81,Male,Hillview,Yes,2,4.65,303,4,Ads,94392,legacy plan,0
+3,9/19/2024,41,392.8,Male,Riverton,Yes,0,11.91,300,4,Email,91369,prefers SMS,0
+336,5/18/2023,31,190.56,Male,Riverton,Yes,1,7.35,336,3,Other,92924,called support twice,0
+209,9/1/2020,31,245.79,Female,Riverton,Yes,1,16.52,325,2,Search,92749,loves coupons,1
+74,4/14/2021,34,346.68,Male,Hillview,Yes,0,14.4,329,3,Search,94279,called support twice,0
+496,1/7/2023,46,358.25,Male,Hillview,Yes,3,13.69,309,3,Search,94773,loves coupons,0
+452,11/9/2024,47,902.07,Male,Hillview,Yes,2,12.37,418,3,Search,95018,moved recently,0
+205,1/28/2020,30,164.24,Male,Springfield,No,0,5.79,316,5,Search,90332,called support twice,0
+69,3/2/2020,42,246.71,Female,Springfield,No,0,4.89,396,4,Search,95973,VIP customer,0
+91,11/1/2020,34,156.96,Male,Riverton,Yes,2,17.39,300,5,Ads,90156,called support twice,0
+300,7/13/2023,34,603.12,Prefer not to say,Oakdale,Yes,3,16.96,404,4,Ads,93074,VIP customer,0
+34,1/13/2022,43,680.04,Male,Springfield,Yes,2,7.12,383,1,Ads,94097,loves coupons,0
+71,3/6/2021,41,190.88,Female,Springfield,Yes,2,11.59,374,1,Search,94275,prefers email,0
+470,10/17/2022,18,372.03,Male,Lakeside,No,1,7.97,346,1,Event,90722,LEGACY PLAN!!!,1
+1,4/2/2024,49,575.32,Female,Riverton,No,0,8.35,453,5,Ads,91925,no response,0
+12,2/3/2025,32,290.01,Male,Lakeside,No,1,10.52,300,3,Friend,93578,moved recently,0
+282,12/30/2020,42,959.94,Male,Lakeside,Yes,2,17.51,393,3,Ads,92329,no response,0
+23,5/2/2025,20,296.7,,Northbridge,No,1,12.2,300,3,Search,96919,legacy plan,0
+102,11/5/2023,32,488.61,Female,Oakdale,Yes,0,15.31,334,2,Ads,94765,called support twice,1
+269,8/19/2020,26,352.52,Non-binary,Springfield,Yes,4,4.37,309,3,Ads,96669,prefers SMS,0
+485,3/13/2020,21,475.71,,Lakeside,Yes,2,0.95,341,5,,93374,prefers email,0
+442,11/7/2020,36,61.65,Male,Riverton,Yes,2,15.92,335,4,Search,92954,prefers email,0
+291,7/30/2024,49,163.86,Female,Riverton,Yes,1,1.91,354,4,Search,95762,prefers email,0
+85,2/15/2020,42,420.35,Female,Riverton,No,3,14.31,300,5,Search,96187,called support twice,0
+246,10/7/2024,38,199.15,Male,Riverton,Yes,1,15.1,300,4,Search,93477,called support twice,0
+64,3/15/2024,32,474.22,Male,Riverton,Yes,1,16.02,323,4,Search,94311,loves coupons,0
+56,4/15/2024,30,321.3,Prefer not to say,Riverton,Yes,1,10.7,323,3,Friend,90996,legacy plan,0
+230,7/31/2020,35,497.3,Male,Glenwood,Yes,4,7.03,390,5,Ads,92002,legacy plan,0
+19,7/19/2024,20,193.99,Male,Riverton,No,2,11.76,355,3,Friend,92234,asked for refund,0
+411,8/29/2023,29,423.42,Male,Lakeside,No,2,11.3,345,3,Search,93474,prefers email,0
+210,10/13/2022,38,242.33,Female,Glenwood,No,2,14.49,367,5,Friend,96772,asked for refund,0
+395,1/25/2020,15,242.67,Male,Springfield,No,5,11.83,324,2,Ads,95848,prefers email,0
+83,6/21/2024,27,255.41,Male,Lakeside,Yes,0,10.38,390,5,Friend,90356,prefers SMS,0
+40,9/6/2023,25,362.85,Female,Riverton,No,3,5.3,399,4,Search,,prefers email,1
+456,1/3/2021,23,493.13,Female,Oakdale,No,1,12.86,386,3,Event,95297,moved recently,0
+47,2/16/2022,36,552.23,Male,Riverton,Yes,3,6.89,355,5,Ads,92028,legacy plan,0
+413,6/30/2020,35,361.24,Male,Northbridge,Yes,2,14.43,329,3,Ads,95240,prefers email,0
+315,1/5/2022,34,178.9,Male,Glenwood,Yes,0,21.07,357,2,Search,91021,loves coupons,0
+355,7/24/2022,26,312.03,Female,Northbridge,Yes,0,12.15,339,5,Ads,96286,asked for refund,0
+78,8/21/2023,23,139.65,Female,Lakeside,Yes,1,7.32,323,4,Search,92759,called support twice,0
+398,8/15/2021,34,479.22,Female,Riverton,No,4,11,300,5,Search,90805,prefers email,0
+105,4/11/2024,55,715.43,Male,Springfield,No,1,14.47,364,2,Ads,96019,loves coupons,0
+204,10/15/2020,31,192.45,Prefer not to say,Riverton,Yes,1,14.44,300,3,Search,91425,VIP customer,0
+381,1/14/2023,21,506.98,Male,Hillview,No,2,17.09,300,4,Friend,94123,VIP customer,0
+489,2/22/2023,35,579.05,Male,Glenwood,Yes,0,13.85,347,2,,90268,prefers email,0
+70,5/26/2022,39,350.26,Female,Hillview,No,0,10.36,300,4,Friend,92496,moved recently,0
+408,8/6/2024,10,270.38,Male,Springfield,Yes,0,14.79,327,3,Friend,90894,no response,1
+256,2/6/2024,,902.26,Female,Oakdale,No,5,18.75,398,4,Ads,90125,called support twice,0
+392,9/1/2020,42,189.22,Female,Hillview,Yes,0,17.81,300,1,Friend,94364,prefers email,1
+312,4/16/2022,40,760.95,Female,Riverton,No,0,13.46,380,5,Other,92087,legacy plan,0
+235,2/15/2025,23,261.15,Male,Riverton,Yes,0,8.17,336,5,Search,96311,moved recently,1
+474,9/26/2020,28,125.75,Non-binary,Riverton,No,2,14.28,300,4,Search,91984,no response,1
+324,12/10/2022,48,741.8,Male,Oakdale,Yes,3,11.93,402,4,Ads,93806,prefers email,0
+94,2/3/2022,37,307.6,Male,Riverton,No,3,19.93,304,4,Search,91075,no response,0
+138,8/25/2022,29,832.02,Female,Northbridge,Yes,1,12.53,355,5,Friend,96575,moved recently,0
+177,5/23/2022,37,338.56,Female,Oakdale,No,1,10.44,355,5,Other,90508,asked for refund,0
+337,7/9/2020,37,614.47,Male,Lakeside,No,3,10.66,424,5,Other,93845,prefers email,0
+132,1/30/2025,21,342.33,Female,Oakdale,Yes,2,6.61,318,5,Search,91026,asked for refund,0
+254,5/12/2021,38,142.48,Female,Lakeside,No,1,12.67,339,4,Search,95089,legacy plan,1
+365,8/13/2023,39,289.5,Female,Lakeside,Yes,1,16.79,300,4,Search,93760,likes new app,0
+133,3/12/2023,39,313.72,Female,Lakeside,Yes,2,13.14,384,5,Other,96526,MOVED RECENTLY!!!,0
+332,2/10/2021,38,139.98,Male,Lakeside,Yes,3,19.64,388,5,Search,93685,moved recently,0
+412,7/28/2023,31,536.94,Male,Springfield,Yes,2,7.12,341,5,Friend,91075,moved recently,0
+41,5/27/2022,26,656.23,Female,Springfield,No,0,11.99,415,3,Search,93373,VIP customer,0
+350,7/9/2020,39,1452.06,Female,Oakdale,No,0,5.38,509,5,Search,91596,called support twice,0
+87,12/20/2023,,470.78,Female,Lakeside,Yes,1,14.34,309,4,Search,95785,prefers SMS,1
+76,7/18/2021,27,186.06,Male,Springfield,Yes,4,13.32,331,5,Search,92211,moved recently,0
+443,1/14/2024,29,171.82,Female,Hillview,Yes,0,13.76,336,5,Search,96413,moved recently,1
+16,4/1/2021,17,862.83,Prefer not to say,Springfield,Yes,0,8.62,399,4,Search,95135,loves coupons,0
+326,8/2/2023,34,259.4,Female,Lakeside,No,5,10.75,335,3,Ads,94312,prefers SMS,0
+389,8/25/2020,35,126.92,Male,Riverton,Yes,1,5.35,435,3,Friend,90666,called support twice,1
+20,6/21/2023,,196.8,Male,Hillview,Yes,5,21.57,330,3,Search,95970,moved recently,0
+325,8/30/2024,46,230.1,Male,Riverton,No,5,10.42,380,1,Ads,92493,prefers SMS,0
+335,9/22/2020,38,117.69,Male,Springfield,Yes,1,10.68,300,4,Friend,95526,loves coupons,0
+57,7/10/2022,46,387.85,Male,Oakdale,Yes,2,15.04,330,5,Search,96152,moved recently,0
+339,6/18/2020,24,464.99,Male,Northbridge,No,2,4.89,360,4,Friend,90899,legacy plan,0
+409,8/1/2020,18,256.32,Non-binary,Hillview,No,3,11.19,381,5,Search,91978,legacy plan,0
+334,9/23/2024,29,566.82,Female,Lakeside,Yes,0,5.74,353,5,Ads,91619,no response,0
+182,11/28/2024,26,397.03,Female,Lakeside,Yes,1,8.87,358,2,Search,91194,asked for refund,0
+228,1/19/2023,33,580.78,Female,Lakeside,Yes,1,,325,4,Event,93023,prefers SMS,1
+427,4/23/2021,22,459.04,Male,Northbridge,Yes,0,7.07,322,3,Search,94534,called support twice,0
+181,11/22/2024,35,229.9,Non-binary,Glenwood,No,4,22.22,363,2,Search,90884,likes new app,0
+26,1/25/2021,59,438.98,Male,Hillview,No,4,16.24,317,3,Ads,90669,asked for refund,0
+330,8/1/2021,33,648.92,Female,Hillview,No,2,8.66,394,4,Event,91440,called support twice,0
+239,2/5/2020,25,441.88,Female,Northbridge,No,2,7.51,356,3,Search,93417,legacy plan,0
+245,5/1/2023,50,781.35,Male,Glenwood,No,2,11.79,360,3,Search,93827,moved recently,1
+251,8/1/2023,36,283.59,,Riverton,Yes,4,17.96,342,4,Event,90381,likes new app,0
+418,4/7/2024,,773.86,Female,Oakdale,No,0,10.51,352,4,Friend,93781,prefers SMS,0
+118,12/14/2023,37,314.37,Female,Riverton,Yes,0,15.63,335,5,Ads,92495,called support twice,0
+43,11/6/2023,33,588.89,Male,Riverton,No,4,10.74,370,2,Friend,95924,loves coupons,0
+322,8/23/2022,38,455.07,Male,Hillview,Yes,4,12.38,339,3,Ads,92847,moved recently,0
+347,3/13/2025,34,472.59,Female,Hillview,No,2,17.94,308,3,Friend,90099,legacy plan,0
+183,11/7/2022,32,4423.04,Female,Springfield,Yes,0,10.81,779,4,Friend,92761,likes new app,0
+156,9/11/2023,33,647.05,Female,Springfield,Yes,3,10.03,360,5,Search,94488,prefers email,0
+281,3/28/2020,41,,Non-binary,Springfield,Yes,1,20.44,321,5,Ads,91932,moved recently,0
+127,10/24/2021,39,231.58,Male,Lakeside,Yes,0,8.67,372,3,Ads,90601,loves coupons,0
+449,4/19/2020,36,333.09,Male,Hillview,Yes,2,0.87,345,5,Other,94996,prefers email,0
+32,4/25/2025,36,371.1,Female,Springfield,Yes,1,15.55,370,4,Search,95367,moved recently,0
+114,3/8/2023,22,601.22,Female,Lakeside,No,0,2.55,343,5,Search,91622,VIP customer,0
+149,5/30/2022,11,366.33,Male,Hillview,No,2,9.61,300,5,Friend,95801,called support twice,0
+430,5/26/2024,27,210.18,Male,Lakeside,Yes,1,12.08,300,4,Search,94470,prefers SMS,0
+401,8/28/2021,44,521.35,Male,Riverton,Yes,2,6.85,300,1,Ads,93229,called support twice,0
+58,2/15/2023,11,1574.84,Male,Oakdale,No,0,11.06,458,1,Email,90054,no response,0
+195,11/3/2020,38,910.41,Non-binary,Springfield,Yes,0,47.74,398,4,Friend,91207,LIKES NEW APP!!!,0
+25,4/11/2024,30,445.3,Female,Hillview,Yes,0,12.35,346,3,Email,92120,prefers SMS,0
+18,5/8/2020,15,134.53,Female,Springfield,No,2,9.61,300,3,Ads,91658,prefers email,0
+298,5/28/2024,36,101.22,Female,Springfield,Yes,2,9.18,350,5,Email,95845,prefers SMS,0
+67,1/27/2023,25,276.15,Male,Glenwood,No,1,15.27,300,4,Friend,93597,no response,1
+212,3/12/2023,45,214.25,Female,Hillview,No,1,7.08,314,3,Search,95721,LOVES COUPONS!!!,0
+404,8/9/2020,24,155.86,Female,Oakdale,Yes,1,2.72,386,4,Search,91069,prefers SMS,0
+95,8/28/2021,20,253.96,Female,Lakeside,Yes,2,8.2,313,2,Friend,90382,prefers SMS,1
+155,8/5/2020,32,405.56,Female,Oakdale,Yes,2,7,326,2,Friend,96886,moved recently,0
+441,9/4/2024,26,278.9,Female,Lakeside,No,2,9.28,320,3,Search,91565,moved recently,0
+24,11/27/2024,5,526.71,Male,Hillview,Yes,0,14.08,326,5,Email,96718,prefers SMS,0
+226,1/30/2025,26,787.74,Female,Lakeside,Yes,2,9.8,397,4,Search,90574,called support twice,0
+433,11/2/2023,29,537.87,Female,Springfield,No,0,15.98,337,5,Search,90067,loves coupons,0
+447,5/21/2025,39,157.66,Female,Northbridge,No,3,8.16,300,3,Search,95731,prefers email,1
+6,5/12/2025,27,234.45,Female,Riverton,Yes,0,12.36,372,3,Search,93090,legacy plan,1
+117,3/2/2024,43,181.9,Female,Lakeside,Yes,2,23.16,328,2,Search,92746,no response,0
+46,6/3/2024,50,651.43,Male,Riverton,Yes,4,7.26,353,5,Search,90724,prefers email,0
+17,1/18/2023,32,268.91,Female,Lakeside,Yes,3,18.1,303,2,Friend,90188,prefers email,0
+468,3/2/2025,39,478.5,Male,Riverton,No,2,15.39,377,3,Ads,91873,legacy plan,0
+362,8/28/2020,53,267.89,Male,Riverton,No,2,18.8,430,4,Search,91386,legacy plan,0
+4,10/31/2023,34,595.31,Male,Hillview,Yes,0,10.64,324,3,Friend,91764,moved recently,1
+295,8/20/2024,37,402.08,Male,Springfield,Yes,1,19.17,,5,Search,90640,likes new app,0
+186,8/20/2023,19,606.46,Female,Hillview,Yes,2,8.32,300,4,Ads,93908,LOVES COUPONS!!!,1
+61,9/3/2023,27,397.32,Male,Lakeside,No,3,15.98,342,1,Friend,95506,called support twice,0
+111,7/3/2022,37,160.99,Male,Lakeside,Yes,2,12.88,326,4,Other,91675,VIP customer,0
+321,1/13/2025,24,321.52,Female,Oakdale,No,2,8.88,312,2,Event,92980,loves coupons,0
+266,11/28/2020,53,385.01,,Oakdale,Yes,0,2.34,372,2,Search,94370,VIP customer,0
+30,10/2/2023,19,5274.14,Non-binary,Lakeside,No,2,12.5,844,5,Email,94518,VIP customer,0
+263,9/14/2021,16,1031.34,Male,Riverton,Yes,2,17.36,392,4,Friend,90910,prefers SMS,0
+478,5/11/2023,35,93.56,,Lakeside,Yes,2,8.4,300,5,Friend,94373,called support twice,0
+27,7/25/2022,39,464.39,Male,Glenwood,Yes,3,8.57,373,1,Other,91554,legacy plan,0
+8,4/26/2024,26,531.22,Male,Hillview,Yes,3,6.76,344,4,Search,91107,moved recently,0
+458,7/9/2022,44,286.48,Female,Springfield,Yes,3,14.01,366,5,Search,92580,called support twice,0
+109,7/12/2020,51,188,Female,Northbridge,Yes,1,4.6,334,4,Ads,90147,prefers email,0
+38,8/12/2022,44,485.86,Female,Springfield,No,1,13.52,356,5,Search,93701,likes new app,0
+158,8/16/2023,41,259.29,Male,Riverton,No,3,13.9,362,3,Search,90230,asked for refund,0
+472,8/9/2022,40,160.56,Male,Hillview,No,3,11.2,368,4,Friend,95132,loves coupons,0
+119,5/17/2022,17,,Female,Hillview,No,2,11.54,366,4,Event,94596,no response,0
+115,12/20/2020,31,,Male,Oakdale,Yes,6,6.5,312,2,Ads,95297,asked for refund,0
+176,3/31/2020,26,115.58,Female,Northbridge,No,2,13.84,324,2,Event,90210,loves coupons,0
+193,9/3/2020,22,524.59,Female,Oakdale,Yes,3,12.7,,2,Search,92179,asked for refund,0
+273,4/17/2020,55,536.45,Male,Lakeside,Yes,2,20.14,317,3,Other,93422,likes new app,0
+145,8/8/2022,,1018.52,Male,Riverton,No,3,6.14,408,3,Search,92578,legacy plan,0
+490,2/9/2023,32,223.44,Male,Springfield,Yes,1,,300,4,Search,94140,asked for refund,0
+383,4/15/2024,36,432.49,Female,Lakeside,No,4,,300,4,Search,91480,prefers SMS,0
+356,11/14/2022,32,508.87,Female,Lakeside,Yes,1,6.57,349,3,Friend,93188,prefers email,1
+278,10/9/2022,41,454.26,Male,Glenwood,Unknown,1,13.94,339,3,Search,91867,VIP customer,0
+221,8/27/2021,33,122.54,Male,Hillview,Yes,1,14.95,300,2,Other,91937,LOVES COUPONS!!!,1
+450,5/21/2023,35,432.19,Male,Hillview,No,0,6.55,300,4,Ads,95133,legacy plan,0
+142,9/11/2022,38,371.36,Female,Lakeside,Yes,2,19.06,356,4,Other,96057,asked for refund,0
+369,10/31/2021,45,289.17,Female,Lakeside,No,4,6,330,4,Other,92248,prefers SMS,0
+68,9/2/2021,42,716.35,Female,Oakdale,No,3,12.86,395,2,Friend,92047,prefers SMS,0
+361,2/11/2025,35,289.77,,Springfield,Yes,5,16.64,392,5,Search,96998,moved recently,0
+169,9/28/2021,31,201.09,Male,Riverton,Yes,5,2.11,300,5,Friend,96152,asked for refund,0
+499,12/24/2021,39,293.73,Male,Northbridge,Yes,1,11.21,368,4,Ads,91261,likes new app,0
+379,2/8/2022,42,357.9,Male,Lakeside,No,3,13.58,355,5,Friend,94028,no response,0
+366,4/20/2022,67,629.31,Male,Springfield,Yes,2,10.71,355,3,Email,92491,likes new app,0
+194,7/26/2024,43,333.7,Male,Oakdale,No,0,28.21,300,1,Search,94085,legacy plan,1
+250,5/4/2022,39,378.28,Female,Lakeside,Yes,1,16.94,409,4,Friend,91674,loves coupons,0
+110,12/16/2024,23,552.95,Female,Springfield,No,1,20.08,329,3,Ads,96292,legacy plan,0
+434,8/8/2024,45,568,Male,Riverton,Yes,3,21.54,314,2,Email,92981,called support twice,0
+146,6/19/2021,31,90.29,Female,Hillview,No,1,9,343,3,Ads,91431,called support twice,0
+93,6/14/2022,26,537.42,Male,Springfield,Yes,3,12.56,373,3,Search,93936,no response,0
+153,10/8/2020,16,669.32,Female,Northbridge,Yes,5,10.83,466,4,Event,94522,prefers SMS,0
+223,8/23/2023,34,177.26,Female,Lakeside,No,0,2.77,300,3,Search,92984,moved recently,0
+410,6/28/2025,27,550.94,Female,Northbridge,No,1,6.68,368,3,Friend,94895,called support twice,0
+84,12/1/2020,44,859.21,Male,Oakdale,Yes,1,14.07,428,5,Search,95285,VIP customer,0
+249,1/20/2022,24,679.77,Male,Lakeside,No,4,7.95,324,4,Search,96144,likes new app,0
+166,1/14/2022,41,292.03,Male,Riverton,Yes,4,16.42,300,3,Friend,95258,prefers SMS,0
+164,3/16/2020,32,155.12,Male,Lakeside,Yes,1,8.09,316,5,Search,91470,moved recently,0
+200,9/14/2021,43,1177.47,Male,Lakeside,Yes,6,20.55,512,4,Other,90163,VIP customer,1
+232,4/21/2022,25,256.94,Female,Lakeside,No,0,13.49,303,3,Search,93940,prefers email,0
+75,4/27/2020,32,322.69,Female,Oakdale,No,1,18.87,300,2,Ads,90341,no response,1
+311,8/17/2022,22,199.73,Prefer not to say,Hillview,No,3,10.38,412,3,Search,,VIP customer,0
+455,7/3/2020,41,298.72,Male,Lakeside,No,2,5.87,300,5,Email,94576,prefers SMS,0
+254,5/12/2021,38,142.48,Female,Lakeside,No,1,12.67,339,4,Search,95089,legacy plan,1
+120,6/13/2023,40,380.78,Female,Springfield,No,0,9.84,312,3,Search,93741,no response,0
+285,2/20/2023,17,743.23,Female,Hillview,Yes,1,16.46,400,2,Search,93352,no response,0
+302,9/27/2020,53,244.2,Female,Springfield,Yes,3,11.98,300,4,Ads,96357,legacy plan,0
+483,3/26/2023,34,287.27,Male,Lakeside,Unknown,3,6.23,300,1,Friend,94571,called support twice,1
+357,3/13/2024,49,167.29,Non-binary,Hillview,Yes,0,14.53,316,4,Email,92729,loves coupons,0
+403,4/17/2024,23,,Male,Riverton,No,1,14.85,329,3,Search,90675,prefers SMS,0
+229,6/26/2023,41,211.51,Male,Oakdale,Yes,2,13.91,371,3,Search,92527,VIP customer,0
+262,7/13/2024,25,354.85,Female,Hillview,Yes,2,11.87,336,3,Email,92235,prefers email,0
+238,4/24/2024,31,382.5,Female,Lakeside,Yes,1,14.4,302,4,Search,96777,called support twice,0
+438,10/9/2022,49,136.12,Female,Lakeside,Yes,3,10.73,316,1,Friend,93330,moved recently,0
+476,9/3/2021,30,713.27,Female,Springfield,No,0,10.86,356,3,Ads,,VIP customer,0
+37,9/17/2020,28,268.97,Male,Springfield,No,3,22.15,300,2,Ads,92551,asked for refund,1
+197,4/17/2023,99,,Female,Riverton,Yes,2,7.62,324,4,Email,96084,LOVES COUPONS!!!,0
+140,6/15/2020,31,786.74,Male,Riverton,Yes,0,13.64,364,3,Ads,92312,VIP customer,0
+368,9/9/2023,5,609.13,Female,Lakeside,No,5,16.71,380,3,Friend,91175,prefers email,1
+248,4/8/2022,24,264.08,Male,Lakeside,No,1,8.17,300,3,Friend,94421,legacy plan,0
+288,1/19/2022,22,585.42,Male,Riverton,No,0,12.94,377,3,Search,94993,loves coupons,0
+378,5/28/2022,16,,Male,Riverton,Yes,0,4.46,342,1,Search,95237,legacy plan,0
+60,8/17/2020,18,878.34,Female,Oakdale,No,2,12.05,486,1,Email,95928,prefers SMS,1
+112,2/10/2021,53,225.44,Female,Hillview,No,4,7.47,318,3,Search,95917,asked for refund,1
+90,10/2/2022,21,,Male,Lakeside,No,1,9.58,348,3,Search,91466,called support twice,0
+267,7/25/2021,40,585.4,Female,Oakdale,Yes,2,13.27,455,1,Ads,91103,legacy plan,0
+7,3/7/2024,39,283.2,Female,Riverton,Yes,4,12.17,,2,Email,91386,likes new app,0
+457,5/20/2025,34,340.94,Male,Riverton,Yes,0,14.13,300,4,Search,94495,moved recently,0
+348,5/23/2021,47,264.75,Male,Hillview,Yes,2,10.44,350,5,Email,90932,loves coupons,0
+341,10/2/2020,49,481.05,Male,Riverton,Yes,5,,330,3,Friend,90241,prefers SMS,0
+159,12/30/2023,40,551.98,Male,Lakeside,Yes,2,15.7,370,2,Ads,90554,loves coupons,0
+151,7/16/2024,60,482.36,Female,Hillview,Yes,4,6.06,300,3,Ads,91011,legacy plan,0
+178,6/14/2025,47,199.56,Male,Springfield,No,0,16.34,300,3,Search,95680,prefers SMS,0
+397,7/14/2024,33,,Female,Riverton,No,1,12.8,363,2,Ads,91442,no response,1
+185,3/29/2024,18,164.44,Female,Springfield,No,3,13.68,345,2,Ads,92707,legacy plan,1
+318,10/8/2023,45,462.76,Female,Springfield,No,3,15.75,393,3,Search,96712,prefers SMS,0
+11,1/14/2022,39,542.87,Female,Oakdale,No,2,10.91,336,3,Search,90949,prefers email,0
+384,8/20/2022,28,879.19,Male,Riverton,Yes,0,9.05,434,3,Email,95673,no response,0
+104,4/29/2025,42,765.1,Female,Lakeside,Yes,1,8.76,413,5,Friend,91866,likes new app,0
+82,3/26/2022,36,1959.33,,Lakeside,Yes,2,9.3,,4,Friend,92465,loves coupons,0
+39,3/31/2021,51,264.56,Male,Riverton,No,4,14.4,308,5,Search,94381,loves coupons,0
+317,1/31/2022,46,242.2,Female,Riverton,Yes,1,20.91,300,5,Search,90554,legacy plan,0
+168,6/10/2024,37,,Non-binary,Lakeside,Yes,3,16.63,378,3,Ads,90799,called support twice,0
+475,7/12/2021,49,387.81,Male,Hillview,Yes,2,13.08,308,5,Friend,93768,prefers SMS,0
+299,4/13/2024,22,423.86,Prefer not to say,Hillview,Yes,5,13.48,390,1,Ads,95483,called support twice,0
+405,6/24/2025,38,738.3,Female,Lakeside,Yes,3,18.37,419,2,Search,90739,legacy plan,0
+199,1/29/2021,33,1158.76,Male,Hillview,Yes,7,19.13,300,2,Email,96794,called support twice,0
+377,2/21/2025,39,463.01,Male,Springfield,Yes,0,23.44,372,3,Search,96714,no response,1
+147,10/27/2021,49,109.28,Male,Springfield,Yes,3,10.9,322,3,Friend,91869,moved recently,0
+396,6/30/2022,35,881.18,Female,Springfield,No,2,18.48,349,4,Friend,93119,no response,0
+148,11/10/2022,25,262.15,Female,Springfield,Yes,2,13.26,327,3,Friend,90908,asked for refund,0
+484,9/28/2021,35,1010.64,Male,Hillview,Yes,1,7.53,430,5,Search,93805,loves coupons,0
+290,7/23/2020,52,422.04,Female,Lakeside,No,0,12.61,378,3,Event,92517,moved recently,0
+124,4/14/2022,29,200.67,Female,Riverton,No,0,22.58,300,4,Friend,91120,called support twice,0
+372,6/26/2021,44,805.94,Female,Hillview,Yes,2,15.58,367,5,Email,91550,prefers email,0
+97,12/27/2021,47,585.1,Male,Oakdale,No,0,5.48,341,2,Email,92242,likes new app,0
+144,2/21/2023,40,363.98,Male,Oakdale,Yes,1,12.36,300,4,Search,91307,prefers email,0
+240,8/7/2020,34,225.72,Male,Springfield,Yes,2,13.69,300,4,Search,90211,no response,0
+276,3/1/2022,26,866.48,Female,Lakeside,No,1,14.63,421,5,Friend,95782,CALLED SUPPORT TWICE!!!,0
+98,6/24/2020,32,404.66,Male,Riverton,No,4,40.91,336,4,Search,92289,prefers email,0
+353,2/7/2023,31,629.16,Male,Riverton,No,2,17.78,353,3,Ads,95987,called support twice,0
+123,6/18/2020,29,448.56,Male,Riverton,No,0,11.06,305,5,Search,95177,VIP customer,0
+184,9/26/2021,34,466.53,Female,Lakeside,Yes,3,7.59,363,3,Ads,91615,likes new app,0
+203,10/1/2022,30,885.17,Male,Hillview,Yes,4,5.72,463,4,Search,92288,legacy plan,0
+247,4/25/2023,43,997.23,,Riverton,Yes,2,13.99,391,4,Search,91995,legacy plan,0
+308,7/7/2023,24,570.86,Male,Hillview,Yes,3,9.49,371,4,Friend,96109,prefers email,0
+423,1/11/2020,51,650.35,Female,Oakdale,No,0,6.69,389,1,Search,96501,LEGACY PLAN!!!,0
+354,2/22/2023,27,340.14,Female,Hillview,No,0,4.07,350,2,Friend,96693,loves coupons,0
+303,12/11/2022,44,181.34,Female,Springfield,Yes,3,16.34,332,2,Other,96477,likes new app,0
+399,7/9/2022,35,118.17,Male,Northbridge,No,2,7.65,356,3,Search,96142,moved recently,0
+287,4/8/2020,29,108.46,Female,Lakeside,Yes,0,17.66,363,1,Email,95389,no response,1
+126,9/18/2022,43,363.83,Female,Hillview,No,3,3.3,393,4,Search,90350,NO RESPONSE!!!,0
+305,9/17/2024,37,375,Male,Oakdale,Yes,1,11.71,300,4,Search,92087,moved recently,0
+224,4/1/2025,,804.16,Male,Lakeside,Yes,1,12.62,375,2,Search,94100,VIP customer,1
+422,3/13/2020,34,659.92,Female,Northbridge,Yes,1,,354,4,Search,96994,prefers SMS,0
+220,3/8/2022,46,158.86,Male,Northbridge,No,0,8.9,300,3,Friend,90988,no response,0
+130,3/25/2023,25,308.81,Male,Glenwood,No,7,11.7,398,2,Other,95390,called support twice,0
+424,4/13/2020,29,369.31,Male,Riverton,Yes,3,7.59,300,5,Ads,96531,moved recently,0
+292,4/14/2020,38,358.13,Female,Riverton,Yes,1,11.6,357,5,Search,92944,asked for refund,0
+493,8/2/2023,41,442.24,Female,Oakdale,No,0,20.35,419,4,Friend,96668,asked for refund,0
+394,10/8/2023,16,209.63,Female,Riverton,Yes,1,3.99,307,3,Search,92612,called support twice,1
+480,4/6/2022,51,329.36,Female,Hillview,No,0,11.78,413,4,Ads,95953,prefers SMS,0
+358,5/23/2024,53,448.72,,Lakeside,Yes,3,15.89,358,4,Search,94544,moved recently,0
+297,5/19/2025,39,286.6,Male,Hillview,Yes,1,11.85,322,1,Search,91185,asked for refund,1
+370,12/8/2024,31,455.32,Female,Hillview,Yes,6,11.11,362,5,Ads,95225,LEGACY PLAN!!!,0
+343,5/26/2024,14,1846.92,Male,Springfield,No,1,15.1,491,3,Friend,91569,moved recently,0
+113,9/6/2021,18,793.91,Female,Springfield,No,0,8.51,364,3,Event,94968,VIP customer,0
+180,2/11/2024,18,139.03,Male,Hillview,No,1,9.29,339,5,Search,95403,called support twice,0
+419,2/1/2021,20,825.16,Male,Lakeside,Yes,2,9.61,323,4,Search,91130,legacy plan,0
+342,4/8/2025,23,538.92,Female,Oakdale,Yes,4,13.44,343,5,Other,93493,prefers email,0
+333,10/26/2023,,337.16,Male,Lakeside,No,3,17.73,376,3,Ads,90833,VIP customer,0
+487,8/9/2022,28,389,Male,Springfield,Yes,0,5.94,313,3,Other,94006,no response,0
+363,8/23/2020,34,,Male,Lakeside,Yes,1,3.78,300,4,Ads,95384,no response,0
+234,4/11/2023,33,510.07,Female,Riverton,Yes,2,7.28,307,5,Search,96515,legacy plan,0
+473,8/27/2020,23,154.25,Female,Northbridge,No,1,4.95,325,5,Search,96689,prefers email,0
+165,1/18/2023,34,178.14,Female,Riverton,No,1,17.98,320,4,Friend,93193,likes new app,0
+137,4/7/2025,37,240.64,Female,Northbridge,No,7,6.78,303,4,Ads,95581,prefers SMS,0
+198,10/21/2024,39,569.58,Male,Oakdale,Yes,1,11.51,366,5,Search,90177,called support twice,0
+259,5/13/2020,13,235,Female,Springfield,Yes,2,,332,4,Ads,93336,no response,0
+233,4/23/2025,35,,Male,Riverton,Yes,4,13.9,377,5,Search,92722,prefers SMS,0
+116,9/15/2024,30,,Female,Springfield,No,0,17.08,300,4,Search,90570,prefers SMS,0
+121,3/18/2023,29,716.97,Male,Northbridge,Yes,3,7.22,444,3,Search,94284,moved recently,0
+352,12/9/2020,24,234.03,Male,Lakeside,Yes,3,13.18,341,3,Ads,96211,no response,0
+225,7/28/2021,25,353.6,,Riverton,Yes,1,9.65,401,5,Search,91480,asked for refund,0
+406,10/30/2024,47,299,Female,Oakdale,Yes,2,15.12,,5,Email,93705,asked for refund,0
+437,9/7/2020,40,215.71,,Riverton,Yes,3,8.39,381,2,Search,90626,prefers email,0
+128,10/17/2020,18,315.24,,Springfield,Yes,3,8.65,350,3,Ads,95064,asked for refund,0
+286,4/15/2022,36,98.74,Male,Riverton,Yes,1,13.57,342,5,Email,95059,loves coupons,0
+415,2/28/2020,45,282.46,Non-binary,Lakeside,Yes,1,19.38,323,3,Event,91306,prefers SMS,1
+108,6/30/2021,37,496.02,Male,Riverton,Yes,1,11.73,,4,Search,92415,loves coupons,0
+374,9/23/2021,,645.86,Female,Hillview,Yes,2,8.58,300,4,Email,95662,asked for refund,0
+371,3/10/2024,30,184.68,Female,Hillview,No,0,11.8,300,5,Other,93607,loves coupons,0
+134,11/27/2021,27,103.17,Male,Northbridge,No,5,15.08,331,5,Search,91241,no response,0
+400,6/6/2022,37,1110.12,Female,Lakeside,No,3,20.79,392,2,Friend,94949,prefers email,1
+45,7/28/2024,,204.78,Male,Lakeside,Yes,1,23.56,300,3,Event,93982,legacy plan,0
+466,11/5/2023,38,235.11,Female,Glenwood,Yes,1,16.06,322,4,Friend,94466,loves coupons,1
+66,1/16/2023,37,868.93,Male,Springfield,No,2,8.46,400,1,Search,93581,prefers SMS,0
+284,5/15/2021,38,318.62,Male,Hillview,Yes,4,15.98,384,5,,94007,prefers email,0
+86,6/29/2020,33,331.65,Female,Oakdale,No,3,9.09,300,2,Search,93426,no response,0
+243,4/11/2021,20,526.23,Female,Springfield,No,3,19.31,393,3,Other,96312,prefers email,0
+187,1/19/2022,40,224.69,Male,Lakeside,No,2,11.07,300,4,Ads,91960,asked for refund,0
+387,12/11/2023,31,300.18,Female,Lakeside,Yes,2,14.42,300,3,Friend,95160,legacy plan,1
+160,3/22/2024,20,388.07,Female,Riverton,Yes,0,9.25,340,4,Search,94331,asked for refund,0
+13,7/16/2023,40,571.68,Male,Riverton,Yes,2,13.79,378,2,Friend,94614,moved recently,0
+36,1/15/2021,42,410.14,Female,Riverton,Yes,0,4.82,329,2,Ads,96683,moved recently,0
+29,11/5/2020,40,102.52,Male,Springfield,Yes,0,8.81,300,4,Search,91377,prefers SMS,0
+171,8/6/2021,33,1586.5,Male,Oakdale,No,0,13.96,460,3,Ads,93339,asked for refund,0
+143,2/25/2025,29,344.31,Prefer not to say,Riverton,Yes,0,16.68,330,5,Friend,91310,asked for refund,0
+417,10/14/2020,26,141.75,Male,Riverton,Yes,2,16.62,300,5,Other,96947,asked for refund,0
+425,5/1/2023,56,318.78,Female,Springfield,No,3,15.18,349,4,Search,95826,legacy plan,1
+222,9/7/2022,25,94.16,Male,Lakeside,Yes,4,8.69,300,3,Friend,94441,likes new app,0
+96,6/18/2023,48,365.01,Male,Lakeside,Yes,2,12.01,,4,Event,96785,LOVES COUPONS!!!,0
+52,1/15/2020,31,502.9,Female,Glenwood,No,4,12.18,318,5,Ads,90209,loves coupons,0
+241,7/22/2024,46,368.99,Female,Springfield,No,3,24.14,300,4,Event,90924,called support twice,0
+376,10/23/2020,38,597.23,Male,Hillview,Yes,2,17.03,311,3,Search,90144,asked for refund,0
+382,2/21/2025,34,403.91,Female,Springfield,Yes,1,7.31,362,3,Search,93644,prefers email,0
+179,11/24/2024,32,,Male,Lakeside,Yes,0,4.07,377,2,Friend,95508,moved recently,0
+42,7/29/2024,48,259.87,Male,Riverton,Yes,1,14.55,346,5,Ads,92621,VIP customer,0
+440,6/18/2023,32,345.42,Non-binary,Springfield,Yes,3,10.96,338,5,Search,90683,called support twice,0
+391,7/2/2023,25,768.23,Non-binary,Oakdale,No,0,11.74,401,3,,94164,legacy plan,0
+207,9/21/2020,50,467.3,Female,Oakdale,Yes,1,,408,2,Event,90257,legacy plan,1
+283,4/20/2021,41,451.71,Female,Oakdale,Yes,1,6.7,360,4,Friend,94590,likes new app,0
+255,4/19/2021,37,648.86,Female,Hillview,No,4,10.44,344,3,,93757,likes new app,1
+416,4/28/2021,28,1383.91,Female,Lakeside,No,2,13.86,421,1,Friend,94837,asked for refund,0
+5,7/8/2020,33,350.46,,Riverton,Yes,0,10.05,350,4,Search,91496,VIP customer,0
+257,6/26/2024,43,225.13,Female,Riverton,Yes,3,15.57,306,5,Search,92378,asked for refund,0
+453,11/25/2023,51,302.14,Female,Springfield,Yes,3,7.27,327,5,Search,90338,asked for refund,0
+101,12/28/2024,23,,Male,Glenwood,No,1,18.77,342,4,Email,96389,moved recently,0
+227,2/19/2020,41,464.71,Male,Lakeside,No,3,21.88,305,3,Search,96198,likes new app,1
+432,3/29/2024,41,631.14,Female,Springfield,No,1,16.04,369,1,Search,96157,no response,0
+214,6/1/2024,27,434.13,Female,Riverton,No,7,4.46,440,4,Search,93799,legacy plan,0
+426,5/27/2024,33,320.28,Prefer not to say,Northbridge,No,1,16.43,320,4,Friend,94023,called support twice,0
+172,10/30/2022,52,,Female,Riverton,No,3,17.05,387,4,Ads,92384,called support twice,0
+99,8/24/2020,39,244.98,Female,Glenwood,Yes,0,11.58,326,5,Other,94401,called support twice,0
+293,1/30/2025,49,1208.26,Prefer not to say,Riverton,Yes,0,8.66,361,3,Event,91289,prefers email,1
+216,1/23/2024,12,270.8,Male,Hillview,No,2,15.7,326,2,Friend,91166,prefers SMS,0
+62,8/3/2022,37,464.77,Male,Oakdale,Yes,0,20.23,368,3,Friend,96808,prefers email,0
+48,8/1/2021,38,386.06,Male,Springfield,Yes,2,7.61,343,4,Email,93240,asked for refund,1
+33,10/15/2021,34,362.15,Female,Hillview,No,0,18.52,347,2,Friend,94240,asked for refund,0
+268,11/4/2020,31,277.7,Male,Springfield,No,1,15.47,307,4,Email,94015,loves coupons,0
+328,12/5/2022,32,142.18,Male,Riverton,No,4,18.13,344,2,Ads,94408,legacy plan,0
+201,4/9/2024,41,173.82,Male,Riverton,Yes,5,19.39,334,2,Friend,93209,legacy plan,0
+451,3/25/2020,39,1466.01,Male,Hillview,Yes,5,8.29,,3,Ads,91078,asked for refund,0
+28,3/28/2020,29,525.58,Male,Riverton,No,1,7.08,341,3,Ads,95380,LOVES COUPONS!!!,0
+393,3/26/2023,36,444.38,Non-binary,Lakeside,No,2,,357,2,Friend,94606,VIP CUSTOMER!!!,0
+231,10/8/2020,42,562.31,Female,Springfield,No,1,16.54,353,4,Friend,94605,no response,0
+261,10/20/2020,47,577.97,Female,Springfield,Yes,3,11.11,300,5,Search,91849,prefers email,0
+289,11/17/2022,,376.57,Female,Lakeside,Yes,2,13,331,3,Friend,96278,called support twice,0
+163,4/7/2021,37,83.45,Male,Riverton,No,0,8.43,429,1,Search,94500,loves coupons,0
+429,4/24/2020,24,404.89,,Hillview,No,2,9.34,316,4,Friend,95007,prefers email,1
+139,4/19/2024,50,328.94,Prefer not to say,Riverton,Yes,3,14.56,300,4,Search,90816,likes new app,0
+63,2/8/2023,33,389.88,Female,Oakdale,No,0,14.93,300,3,Search,94206,loves coupons,0
+136,2/15/2020,42,,Non-binary,Springfield,Yes,5,12.55,342,3,Search,92436,called support twice,0
+129,7/26/2020,40,325.16,Female,Springfield,No,3,11.6,300,3,Search,91107,moved recently,0
+482,3/12/2021,25,151.49,Prefer not to say,Hillview,Yes,3,13.79,300,3,Search,92484,moved recently,0
+9,9/14/2020,42,363.81,Female,Lakeside,Yes,2,16.01,339,4,Email,93665,moved recently,0
+327,6/2/2024,23,358.34,Male,Riverton,Yes,3,16.96,410,2,Search,92652,no response,0
+469,10/24/2020,-1,657.18,Female,Riverton,Yes,3,15.2,300,5,,92928,prefers SMS,1
+65,6/27/2023,33,331.17,Male,Northbridge,No,1,11,377,1,Other,93743,prefers SMS,0
+301,4/12/2024,34,141.1,Female,Riverton,Yes,2,7.87,356,4,,96395,no response,0
+15,6/8/2022,44,173.11,Female,Riverton,No,4,16.45,308,2,Ads,90735,prefers SMS,0
+157,7/18/2021,24,427.7,Female,Riverton,Yes,6,5.32,319,3,Friend,94808,prefers SMS,0
+41,5/27/2022,26,656.23,Female,Springfield,No,0,11.99,415,3,Search,93373,VIP customer,0
+380,1/4/2024,25,4904.42,Male,Oakdale,No,4,6.57,729,5,Ads,96341,VIP customer,0
+465,3/6/2023,31,5361.49,Male,Riverton,No,2,19.13,850,3,Search,91679,VIP customer,0
+407,7/23/2021,31,321.3,Female,Oakdale,Yes,4,16.5,324,2,Event,91384,VIP customer,0
+217,9/20/2020,25,324.82,Male,Springfield,Yes,3,8.23,334,1,Ads,96775,legacy plan,0
+280,9/4/2024,47,368.28,Male,Oakdale,Yes,1,13.52,309,1,Ads,90118,moved recently,0
+439,2/4/2024,16,418.63,Male,Riverton,Yes,0,0.23,300,1,Email,92503,called support twice,1
+435,3/21/2020,47,308.67,Male,Oakdale,No,2,8.48,300,3,Ads,93038,likes new app,1
+338,12/27/2023,38,427.04,Female,Springfield,Yes,2,20.02,355,1,Friend,95432,no response,1
+237,7/27/2022,42,178.46,Female,Oakdale,No,5,20.85,320,2,Email,94496,VIP customer,0
+208,9/22/2023,30,341.52,Female,Riverton,No,3,14.62,325,3,Friend,93389,called support twice,0
+213,2/4/2021,12,1427.69,Female,Riverton,No,3,11.48,486,4,Email,95114,loves coupons,0
+296,12/16/2024,24,279.05,Male,Oakdale,Yes,0,14.52,354,4,Event,96688,moved recently,1
+462,10/18/2020,40,383.48,Male,Riverton,No,0,9.96,328,3,Search,92383,ASKED FOR REFUND!!!,1
+252,10/7/2024,40,122.76,Female,Oakdale,Yes,5,19.56,329,3,Friend,92512,asked for refund,0
+494,9/26/2021,25,404.27,Non-binary,Lakeside,No,3,20.57,332,5,Ads,92467,no response,0
+463,3/13/2025,47,1060,Male,Riverton,Yes,1,9.98,428,3,Search,93423,prefers SMS,1
+304,10/29/2022,35,203.49,Female,Springfield,Yes,3,2.32,300,2,Ads,93477,prefers SMS,0
+351,5/21/2023,51,441.83,Female,Hillview,Yes,1,12.02,348,3,Search,95167,no response,0
+270,2/12/2020,35,338.84,Male,Springfield,Yes,1,8.73,300,3,Email,94879,prefers email,0
+202,5/4/2025,120,208.29,Male,Riverton,No,6,15.93,300,1,Search,94670,prefers email,0
+162,1/12/2025,56,878.84,Female,Riverton,Yes,0,14.69,385,5,Search,92792,called support twice,0
+44,9/18/2021,49,545.26,,Riverton,Yes,0,17.38,347,3,Email,96671,VIP customer,0
+218,9/5/2020,26,236.68,Male,Springfield,No,3,16.36,371,2,Friend,92693,called support twice,0
+402,1/17/2025,24,325.49,Female,Springfield,Yes,0,8.37,391,4,Other,91464,called support twice,0
+191,2/23/2025,38,300.4,Female,Hillview,No,0,16.11,338,5,Other,94325,prefers email,0
+310,10/7/2020,28,81.97,Prefer not to say,Lakeside,Yes,4,21.62,309,2,Ads,90496,called support twice,1
+260,4/8/2023,45,249.07,Female,Springfield,No,3,14.46,304,5,Search,93939,prefers SMS,0
+106,12/9/2023,23,524.94,Male,Oakdale,Yes,6,8.88,361,4,Search,94141,prefers SMS,0
+54,8/27/2023,19,472.17,Male,Lakeside,Yes,5,16.45,373,1,Event,94906,called support twice,0
+390,9/3/2024,38,384.27,Female,Lakeside,Yes,2,15.64,300,2,Friend,91122,called support twice,0
+2,5/30/2022,36,390.54,Female,Hillview,Yes,0,,352,1,Ads,91313,asked for refund,1
+492,7/24/2023,37,159.34,Male,Hillview,No,3,11.67,300,3,Friend,94015,asked for refund,0
+488,3/28/2021,44,442.66,Prefer not to say,Hillview,No,1,12.66,373,3,Ads,95183,no response,0
+50,10/7/2020,31,216.87,Female,Riverton,Yes,1,17.21,353,3,Search,94687,loves coupons,0
+420,1/1/2025,39,217.79,Female,Springfield,No,2,14.37,300,2,Email,92166,asked for refund,0
+81,8/26/2023,38,801.3,Male,Riverton,Yes,5,5.16,302,5,Email,94981,called support twice,0
+206,4/5/2021,43,271.27,,Oakdale,No,3,4.56,302,4,Search,95091,VIP CUSTOMER!!!,0
+35,7/31/2022,38,740.56,Male,Northbridge,Yes,1,8.33,383,4,Ads,95472,no response,0
+431,2/5/2025,39,595.55,Male,Lakeside,No,5,19.08,392,3,Ads,90939,likes new app,0
+264,10/15/2020,36,271.92,Female,Hillview,Yes,2,15.8,300,5,Friend,90571,loves coupons,0
+428,8/31/2024,36,841.8,Male,Lakeside,Yes,3,15.35,388,2,Ads,95136,prefers SMS,0
+367,4/3/2024,44,128.37,Male,Lakeside,No,0,5.95,343,4,Search,91783,asked for refund,0
+92,10/29/2023,38,143.83,Non-binary,Lakeside,Yes,4,3.59,340,2,Search,95297,prefers email,1
+340,2/21/2025,30,1108.24,Female,Springfield,Unknown,5,3.91,411,4,Search,93350,prefers SMS,0
+479,6/27/2023,39,323.88,Female,Springfield,Yes,0,15.05,358,5,Friend,95648,prefers email,0
+53,4/28/2024,40,,Male,Northbridge,No,1,7.92,390,2,Search,93257,likes new app,1
+346,5/14/2024,35,469.42,Female,Springfield,No,1,3.18,344,2,Ads,91400,no response,1
+265,1/22/2025,44,661.45,Female,Springfield,No,0,18.65,383,4,Other,90257,legacy plan,0
+242,5/18/2024,12,511.4,Female,Lakeside,Yes,1,12.51,375,3,Search,94673,moved recently,1
+14,7/9/2024,32,455.84,Female,Northbridge,Yes,2,1.4,386,4,Search,94938,prefers email,0
+316,10/19/2021,45,588.5,Female,Riverton,No,1,12.03,335,3,Ads,90439,VIP customer,0
+89,11/19/2020,37,388.02,Male,Lakeside,Yes,0,0,336,4,Ads,93826,loves coupons,0
+388,3/24/2025,29,328.99,Non-binary,Lakeside,Yes,0,11.97,370,3,Search,95088,legacy plan,0
+274,4/1/2023,53,518.51,Male,Lakeside,No,0,22.11,340,5,Friend,96237,loves coupons,1
+167,7/23/2024,,311.71,Male,Hillview,Yes,2,15.01,304,2,Search,94617,called support twice,0
+329,6/24/2023,37,416.59,Female,Northbridge,Yes,0,8.66,327,4,,96614,likes new app,0
+498,6/10/2023,21,190.91,Non-binary,Springfield,No,0,15.59,304,2,Search,90067,asked for refund,0
+135,3/31/2023,22,212.36,Female,Springfield,Yes,1,11.99,,3,Friend,96393,legacy plan,0
+307,2/11/2022,33,525,Female,Springfield,No,3,11.33,401,3,,95881,no response,0
+486,4/19/2022,,509.19,Male,Springfield,Yes,1,14.82,382,3,Email,91211,moved recently,0
+320,3/19/2025,27,1092.87,Male,Lakeside,Yes,3,55.96,452,4,Search,92987,legacy plan,0
+244,12/1/2022,26,921.46,Male,Riverton,No,2,8.3,377,3,Ads,90898,loves coupons,0
+55,11/16/2023,41,172.39,Female,Lakeside,Yes,2,10.1,300,4,Search,96909,no response,0
+364,6/25/2020,36,311.83,Male,Lakeside,Yes,2,15.06,300,4,Friend,96547,called support twice,0
+51,2/5/2021,26,263.02,Male,Hillview,Yes,2,11.32,,3,Friend,95739,VIP customer,0
+461,2/22/2023,44,1443.15,Male,Lakeside,No,0,8.9,375,5,Ads,93308,VIP customer,0
+175,11/26/2020,38,182.24,Male,Lakeside,No,3,10.62,300,4,,93166,legacy plan,0
+446,11/25/2023,,450.87,Male,Northbridge,Yes,2,15.62,300,4,Email,95135,loves coupons,0
+190,6/10/2021,43,159.01,Female,Hillview,Yes,0,15.94,326,4,Search,95057,loves coupons,0
+90,10/2/2022,21,,Male,Lakeside,No,1,9.58,348,3,Search,91466,called support twice,0
+464,8/27/2021,38,449.99,Female,Lakeside,No,3,12.37,300,4,Search,93755,legacy plan,0
+188,7/8/2020,30,530.88,Female,Hillview,No,1,16.24,319,4,Event,90864,VIP customer,0
+170,3/27/2025,53,216.66,Female,Lakeside,Yes,2,18.77,300,3,Search,96489,called support twice,0
+59,10/7/2020,27,158.93,Female,Oakdale,Yes,1,10.83,329,5,Search,91378,PREFERS SMS!!!,0
+49,10/1/2023,51,229.85,Female,Springfield,Yes,0,20.03,336,2,Event,94924,no response,0
+345,4/19/2024,35,225,Male,Hillview,No,3,17.88,307,1,Search,91825,loves coupons,1
+236,6/2/2024,19,185.15,Female,Springfield,Yes,3,16.64,404,3,Friend,91389,loves coupons,1
+253,6/29/2022,33,327.63,Female,Springfield,No,1,21.02,363,4,Ads,92198,called support twice,0
+22,12/12/2021,28,308.13,Female,Oakdale,Yes,2,18.19,386,5,Email,95476,moved recently,0
+314,1/7/2022,17,294.81,Male,Lakeside,No,0,9.25,300,1,Friend,94615,moved recently,0
+460,7/1/2023,37,339.1,Male,Lakeside,Yes,0,4.29,325,2,Search,94172,asked for refund,0
+161,8/4/2020,42,363.45,Female,Springfield,No,0,9.81,363,4,Search,96354,VIP customer,0
+277,9/30/2021,44,289.99,Female,Lakeside,Yes,2,14.79,300,5,Search,94958,NO RESPONSE!!!,0
+444,1/22/2021,33,711.47,Female,Northbridge,Yes,4,9,300,4,Other,92717,loves coupons,0
+192,4/28/2021,28,452.17,Male,Hillview,No,1,17.27,385,2,Friend,92249,loves coupons,0
+386,6/3/2025,22,65.01,Male,Oakdale,Yes,1,13.62,334,5,Search,92068,VIP customer,0
+294,7/17/2020,35,595.47,Male,Riverton,Yes,1,6.07,322,4,Search,91020,likes new app,0
+414,12/5/2024,32,494.11,Male,Oakdale,Yes,3,16.03,397,1,Other,93426,loves coupons,0
+344,4/6/2023,16,319.43,Male,Northbridge,Yes,1,14.19,395,5,Friend,96377,loves coupons,0
+258,7/30/2020,19,435.29,Female,Lakeside,Yes,3,7.09,356,3,Search,95145,prefers SMS,0
+309,6/18/2021,33,312.36,Male,Springfield,Yes,1,12.69,407,4,Ads,93753,VIP customer,0
+150,2/13/2020,51,549.44,Non-binary,Riverton,Yes,3,7.32,385,4,Ads,95576,asked for refund,0
+131,12/8/2020,37,1051.14,Female,Lakeside,Yes,4,26.98,389,4,Event,90928,loves coupons,0
+152,12/3/2024,31,288.38,Male,Springfield,Yes,4,3.74,339,3,Ads,93756,prefers email,0
+360,4/18/2023,54,480.36,Female,Glenwood,No,1,,334,4,Search,94225,legacy plan,0
+100,4/14/2025,11,757.94,Female,Oakdale,No,0,12.23,387,3,Search,92550,legacy plan,0
+373,12/31/2021,35,766.79,Male,Oakdale,No,1,8.87,372,4,Email,93794,asked for refund,0
+88,7/15/2022,40,,Male,Riverton,Yes,4,11.09,300,5,Email,96513,moved recently,0
+459,4/22/2024,44,875.8,Male,Lakeside,No,3,12.06,378,3,Ads,92585,likes new app,0
+331,1/14/2024,29,432.94,Male,Glenwood,Yes,0,13.9,407,4,Event,90438,prefers SMS,1
+215,12/6/2023,27,,Male,Springfield,Yes,0,1.98,345,4,Search,92444,legacy plan,0
+467,7/27/2023,6,217.58,Female,Springfield,No,2,7.06,300,2,Ads,92198,prefers SMS,0
+122,7/28/2023,48,292.38,Male,Oakdale,Yes,4,22.3,309,3,Search,93332,legacy plan,0
+34,1/13/2022,43,680.04,Male,Springfield,Yes,2,7.12,383,1,Ads,94097,loves coupons,0
+21,3/1/2024,44,374.7,Male,Springfield,No,0,10.61,352,3,Search,91342,prefers email,0
+189,2/7/2024,9,360.84,Male,Oakdale,No,0,8.51,326,2,Ads,92817,VIP customer,0
+72,3/30/2022,38,477.16,Prefer not to say,Oakdale,No,2,9.45,300,4,Friend,94684,legacy plan,0
+107,6/20/2022,27,520,Female,Lakeside,No,1,1.41,340,4,Ads,96427,moved recently,0
+271,4/21/2020,32,219.9,Male,Oakdale,Yes,3,,325,3,Search,94027,prefers SMS,0
+349,3/30/2023,8,195.47,Male,Hillview,No,3,15.66,369,2,Ads,91512,moved recently,1
+436,2/8/2021,49,207.98,Female,Springfield,No,3,7.07,324,4,Email,96971,no response,0
+103,6/17/2021,24,651.34,Female,Springfield,No,2,7.62,373,5,Friend,92504,loves coupons,1
